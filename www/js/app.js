@@ -27,17 +27,6 @@ angular.module('starter', ['ionic', 'ngCordova'])
 
       vm.toggle = function() {
         vm.active = !vm.active;
-        // better to use ng-class, but i cant ...
-        // cause of toggle, digest is launched after ~ 500 ms ...
-        // especially when light on
-        /*var elt = document.getElementById('button');
-        if(active) {
-          elt.classList.add("power-on");
-          elt.classList.remove("power-off");
-        } else {
-          elt.classList.add("power-off");
-          elt.classList.remove("power-on");
-        }*/
         $timeout(function() {$cordovaFlashlight.toggle();}, 500);
       }
     })
