@@ -1,0 +1,2 @@
+/home/nebulis/Documents/projets/torch-light/platforms/android/build/intermediates/classes/debug
+/home/nebulis/Documents/projets/torch-light/platforms/android/build/intermediates/pre-dexed/debug/classes-f1b4b26e625f7d980bb28919c0deece5749a2fcc.jar

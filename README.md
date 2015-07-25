@@ -10,9 +10,4 @@ To install on android, follow the instructions above :
 - install android SDK : https://developer.android.com/sdk/installing/index.html
 - install ionic : http://ionicframework.com/getting-started/
 - plug your phone
-- Then run :
-```
-cordova add platform android
-cordova plugin add https://github.com/EddyVerbruggen/Flashlight-PhoneGap-Plugin.git
-ionic run
-```
+- Then run :`ionic run`

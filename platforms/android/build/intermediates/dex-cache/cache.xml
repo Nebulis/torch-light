@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nebulis/Documents/projets/torch-light/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="708c41efb86b3540cd168fdc4cea8e903af800c0">
+        <dex dex="/home/nebulis/Documents/projets/torch-light/platforms/android/build/intermediates/pre-dexed/debug/classes-f1b4b26e625f7d980bb28919c0deece5749a2fcc.jar" />
+    </item>
+
+</items>
